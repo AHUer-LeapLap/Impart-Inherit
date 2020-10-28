@@ -4,10 +4,10 @@
   </a>
 </p>
 
-<middle>AHUer Fly 1.0</middle>
+<middle>安徽大学飞跃手册</middle>
 
-- test1
-- test2
+- SUSTech Application Wiki Since 2019.3
+- All Rights Reserved
 
 [GitHub](https://github.com/xiaohai99/ahuf)
 [Get Started](https://xiaohai99.github.io/ahuf/#/?id=安大飞跃)
