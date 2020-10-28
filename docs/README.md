@@ -2,6 +2,6 @@
 
 ## 本博客正在搭建中…
 
-> [test外链](https://www.baidu.com)
+> [百度](https://www.baidu.com)
 
 
