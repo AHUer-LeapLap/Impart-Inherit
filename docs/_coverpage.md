@@ -1,8 +1,8 @@
-<middle>南方科技大学飞跃手册</middle>
+<middle>安徽大学飞跃手册</middle>
 
 
-<!-- > SUSTech Application Wiki -->
+<!-- > AHUer Application Wiki -->
 
-- SUSTech Application Wiki Since 2019.3
+- AHUer Application Wiki Since 2020.10
 
 - All Rights Reserved.
