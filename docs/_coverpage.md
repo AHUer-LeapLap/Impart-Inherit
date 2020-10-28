@@ -10,6 +10,6 @@
 
 - All Rights Reserved
 
-[GitHub](https://github.com/xiaohai99/ahuf)
-
 - Scroll down to read
+
+[GitHub](https://github.com/xiaohai99/ahuf)
