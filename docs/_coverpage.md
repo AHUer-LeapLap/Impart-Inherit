@@ -11,4 +11,4 @@
 - All Rights Reserved
 
 [GitHub](https://github.com/xiaohai99/ahuf)
-[Get Started](https://xiaohai99.github.io/ahuf/#/?id=安大飞跃)
+[下翻阅读](https://xiaohai99.github.io/ahuf/#/?id=安大飞跃)
