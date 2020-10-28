@@ -1,8 +1,15 @@
-# Myblogs
+<p align="center">
+  <a href="https://sustech-application.github.io/2020-Fall">
+    <img alt="docsify" src="src/_media/SUSTech_University_Logo.png" height="200">
+  </a>
+</p>
 
 
-> 我要开始装逼了
+<middle>南方科技大学飞跃手册</middle>
 
 
-[CSDN](https://baidu.com)
-[滚动鼠标](#introduction)
+<!-- > SUSTech Application Wiki -->
+
+- SUSTech Application Wiki Since 2019.3
+
+- All Rights Reserved.

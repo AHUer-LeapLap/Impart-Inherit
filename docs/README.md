@@ -4,6 +4,6 @@
 
 # 安大飞跃
 
-> [个人博客](www.ahu.edu.cn)
+> [个人博客](www.baidu.com)
 
 
