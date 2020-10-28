@@ -2,9 +2,9 @@
 
 ![logo](_media/ahu_logo.jpg)
 
-# AHUer Fly <small>3.5</small>
+# AHUer Fly <small>1.0</small>
 
-> 一个干货慢慢的经验电子书。
+> 一个干货满满的经验电子书。
 
 - test1
 - test2
