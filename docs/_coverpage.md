@@ -1,10 +1,10 @@
-<!-- _coverpage.md -->
+<p align="center">
+  <a href="https://xiaohai99.github.io/ahuf">
+    <img alt="docsify" src="doc/_media/ahu_logo.jpg" height="200">
+  </a>
+</p>
 
-![logo](_media/ahu_logo.jpg)
-
-# AHUer Fly <small>1.0</small>
-
-> 一个干货满满的经验电子书。
+<middle>AHUer Fly 1.0</middle>
 
 - test1
 - test2
