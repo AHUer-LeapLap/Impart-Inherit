@@ -1,8 +1,13 @@
-<middle>安徽大学飞跃手册</middle>
+<!-- _coverpage.md -->
 
+![logo](_media/ahu_logo.jpg)
 
-<!-- > AHUer Application Wiki -->
+# AHUer Fly <small>3.5</small>
 
-- AHUer Application Wiki Since 2020.10
+> 一个干货慢慢的经验电子书。
 
-- All Rights Reserved.
+- test1
+- test2
+
+[GitHub](https://github.com/xiaohai99/ahuf)
+[Get Started](https://xiaohai99.github.io/ahuf/#/?id=安大飞跃)
