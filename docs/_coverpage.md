@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://xiaohai99.github.io/ahuf">
-    <img alt="AHU" src="_media/ahu_logo.jpg" height="150">
+    <img alt="AHU" src="_media/ahu.jpg" height="150">
   </a>
 </p>
 
