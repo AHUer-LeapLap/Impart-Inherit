@@ -18,7 +18,7 @@
 
 ### 为什么创建这本电子书？
 
-如果有其他大学的同学看到此文稿，并觉得不错，而本校并无类似电子书，欢迎参考https://zhuanlan.zhihu.com/p/101126727与https://sustech-application.github.io/2020-Fall/#/进行创建
+如果有其他大学的同学看到此文稿，并觉得不错，而本校并无类似电子书，欢迎参考[基于Github Pages + docsify，我花了半天就搭建好了个人博客](https://zhuanlan.zhihu.com/p/101126727)与[南方科技大学飞跃手册](https://sustech-application.github.io/2020-Fall/#/)进行创建
 
 ### 如何分享经验？
 
@@ -28,6 +28,6 @@
 2. 对于熟悉Git操作的同学：请对\*路径下的对应文件夹Pull Request，可参考 \*[《如何进行经验分享》]，Merge后便即时上线。
 3. 如需更新内容，请及时联系我们！
 
-* 本文暂时引用了南科大飞跃手册的内容: https://sustech-application.github.io/2020-Fall/#/
+####本文暂时引用了[南方科技大学飞跃手册](https://sustech-application.github.io/2020-Fall/#/)的相关内容，侵删。
 
-* 阅读具体内容请点击左侧目录（目录开关在屏幕左下角）
+#### 阅读具体内容请点击左侧目录，目录开关在屏幕左下角。
