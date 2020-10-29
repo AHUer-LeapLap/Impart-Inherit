@@ -24,4 +24,4 @@
 2. 对于熟悉Git操作的同学：请对\*路径下的对应文件夹Pull Request，可参考 \*[《如何进行经验分享》]，Merge后便即时上线。
 3. 如需更新内容，请及时联系我们！
 
-
+本文暂时引用了南科大飞跃手册的内容: https://sustech-application.github.io/2020-Fall/#/
