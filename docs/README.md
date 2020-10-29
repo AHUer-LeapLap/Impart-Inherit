@@ -18,7 +18,7 @@
 
 ### 为什么创建这本电子书？
 
-\****
+如果有其他大学的同学看到此文稿，并觉得不错，而本校并无类似电子书，欢迎参考https://zhuanlan.zhihu.com/p/101126727与https://sustech-application.github.io/2020-Fall/#/进行创建
 
 ### 如何分享经验？
 
