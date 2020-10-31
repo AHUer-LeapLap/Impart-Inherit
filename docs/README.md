@@ -41,4 +41,4 @@
 ### 小尾巴
 
 * [ 本手册创建者的一点故事](404)。
-* 本文暂时引用了[《南方科技大学飞跃手册》](https://sustech-application.github.io/2020-Fall/#/)的相关内容。
+* 本文暂时引用了一些[《南方科技大学飞跃手册》](https://sustech-application.github.io/2020-Fall/#/)的相关内容。
