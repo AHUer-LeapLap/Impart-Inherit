@@ -12,5 +12,5 @@ To be continued.
 
 ### 出国：
 
-To be continued.
+[模板](https://sustech-application.github.io/2020-Fall/#/grad-application/electronic-and-electrical-engineering/communication-engineering/[US]-15-zhongwenzhao)
 
