@@ -1,3 +1,7 @@
+### 学习方法：
+
+To be continued.
+
 ### 高数：
 
 To be continued.
