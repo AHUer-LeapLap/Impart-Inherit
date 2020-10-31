@@ -30,7 +30,7 @@
 
 1. [《经验分享模版》](www.404.com)
 2. 对于没有GitHub使用背景的大部分同学：请将编辑好的`Word`/`Pages`/`Markdown`文件发送到xcseven@foxmail.com，我们会帮助你上架。
-3. 对于熟悉GitHub操作的同学：请对[docs](https://github.com/xiaohai99/ahuf/tree/main/docs)路径下的对应文件夹Pull Request，可参考 [《如何进行经验分享（beta版）》](https://sustech-application.github.io/2020-Fall/#/如何进行经验分享)，Merge后便即时上线。
+3. 对于熟悉GitHub操作的同学：请对[`docs`](https://github.com/xiaohai99/ahuf/tree/main/docs)路径下的对应文件夹Pull Request，可参考 [《如何进行经验分享（beta版）》](https://sustech-application.github.io/2020-Fall/#/如何进行经验分享)，Merge后便即时上线。
 4. 如需更新内容，请及时联系我们！
 5. 本文暂时引用了[《南方科技大学飞跃手册》](https://sustech-application.github.io/2020-Fall/#/)的相关内容，侵删。
 
