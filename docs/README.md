@@ -35,10 +35,10 @@
 飞跃手册欢迎**所有的毕业生和高年级同学们**分享你们的故事，不限出路、不限水平。
 
 1. 分享经验前请查看[《经验分享模版》](经验分享模板.md)
-2. 对于没有GitHub使用背景的大部分同学：请将按照[《经验分享模版》](经验分享模板.md)编辑好的`Word`/`Pages`/`Markdown`文件发送到 xcseven@foxmail.com ，我们会帮助你上架。
-3. 对于熟悉GitHub操作的同学：请对[docs](https://github.com/xiaohai99/ahuf/tree/main/docs)路径下的对应文件夹Pull Request，可参考 [《如何进行经验分享（beta版）》](如何进行经验分享.md)，Merge后便即时上线。
+2. 将按照[《经验分享模版》](经验分享模板.md)编辑好的`Word`/`Pages`/`Markdown`文件发送到 xcseven@foxmail.com ，我们会帮助你上架。
+3. 对于熟悉GitHub操作的同学：请对[docs](https://github.com/AHUer-LeapLap/Impart-Inherit/tree/main/docs)路径下的对应文件夹Pull Request，可参考 [《如何进行经验分享（beta版）》](如何进行经验分享.md)，Merge后便即时上线。
 4. 如需更新内容，请及时联系我们！
 
 ### 小尾巴
 
-* [ 致谢&本手册创建者的一点故事](404)
+* [致谢&本手册创建者的一点故事](404)
