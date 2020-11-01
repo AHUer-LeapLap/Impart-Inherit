@@ -36,7 +36,7 @@
 
 1. 分享经验前请查看[《经验分享模版》](经验分享模板.md)
 2. 将按照[《经验分享模版》](经验分享模板.md)编辑好的`Word`/`Pages`/`Markdown`文件发送到 ahuerleaplap@163.com ，我们会帮助你上架。
-3. 对于熟悉GitHub操作的同学：请对[docs](https://github.com/AHUer-LeapLap/Impart-Inherit/tree/main/docs)路径下的对应文件夹Pull Request，可参考 [《如何进行经验分享（beta版）》](如何进行经验分享.md)，Merge后便即时上线。
+3. 对于熟悉GitHub操作的同学：请对[docs](https://github.com/AHUer-LeapLap/Impart-Inherit/tree/main/docs)路径下的对应文件夹Pull Request，可参考 [《如何进行经验分享》](如何进行经验分享.md)，Merge后便即时上线。
 4. 如需更新内容，请及时联系我们！
 
 ### 小尾巴
