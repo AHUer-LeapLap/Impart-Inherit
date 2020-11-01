@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://xiaohai99.github.io/ahuf">
+  <a href="https://github.com/AHUer-LeapLap/Impart-Inherit">
     <img alt="AHU" src="_media/ahu.jpg" height="150">
   </a>
 </p>
@@ -12,4 +12,4 @@
 
 - **Scroll Down To Read**
 
-[GitHub](https://github.com/xiaohai99/ahuf)
+[GitHub](https://github.com/AHUer-LeapLap/Impart-Inherit)
