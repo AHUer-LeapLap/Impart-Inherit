@@ -6,5 +6,8 @@
 
 <p align="center">
   安徽大学飞跃手册
+</p>
+
+<p align="center">
   AHUer LeapLap Wiki
 </p>
