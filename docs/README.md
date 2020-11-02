@@ -39,7 +39,7 @@
 
 另外：
 1. 对于熟悉GitHub操作的同学：可以不需要发送文件至邮箱，直接对[docs](https://github.com/AHUer-LeapLap/Impart-Inherit/tree/main/docs)路径下的对应文件夹Pull Request即可，可参考 [《如何使用GitHub进行经验分享》](如何使用GitHub进行经验分享.md)。内容经过我们Merge后便会上架。
-2. 如需更新内容，请及时邮件ahuerleaplap@163.com联系我们！
+2. 如需更新内容，请及时邮件 ahuerleaplap@163.com 联系我们！
 
 ### 小尾巴
 
