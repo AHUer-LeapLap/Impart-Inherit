@@ -8,7 +8,7 @@
 
 - AHUer LeapLap Wiki Since 2020.10
 
-- All Rights Reserved
+- All Rights Reserved.
 
 - **Scroll Down To Read**
 
