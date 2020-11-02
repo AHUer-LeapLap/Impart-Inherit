@@ -35,7 +35,7 @@
 分享经验很简单，只需要三步：
 1. 请先查看[《经验分享准则&模版》](经验分享准则&模板.md)。
 2. 请将按照[《经验分享准则&模版》](经验分享准则&模板.md)编辑好的`Word`/`Txt`/`Pages`/`Markdown`文件发送到 ahuerleaplap@163.com ，邮件主题请写为`xxxx学院+投稿`.我们会尽快将内容发布到飞跃手册。
-3. 等待内容收录通知。
+3. 等待内容发布通知。
 
 另外：
 1. 对于熟悉GitHub操作的同学：可以不需要发送文件至邮箱，直接对[docs](https://github.com/AHUer-LeapLap/Impart-Inherit/tree/main/docs)路径下的对应文件夹Pull Request即可，可参考 [《如何使用GitHub进行经验分享》](如何使用GitHub进行经验分享.md)。内容经过我们Merge后便会上架。
