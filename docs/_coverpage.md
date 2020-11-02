@@ -8,6 +8,7 @@
 
 - AHUer LeapLap Wiki Since 2020.10
 
-- 请下翻阅读
+- [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)
 
-[GitHub](https://github.com/AHUer-LeapLap/Impart-Inherit)
+* [GitHub](https://github.com/AHUer-LeapLap/Impart-Inherit)
+
