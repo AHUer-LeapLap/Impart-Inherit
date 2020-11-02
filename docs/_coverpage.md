@@ -8,8 +8,6 @@
 
 - AHUer LeapLap Wiki Since 2020.10
 
-- All Rights Reserved.
-
-- **Scroll Down To Read**
+- 下翻阅读
 
 [GitHub](https://github.com/AHUer-LeapLap/Impart-Inherit)
