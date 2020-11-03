@@ -43,6 +43,10 @@
 1. 对于熟悉GitHub操作的同学：可以不需要发送文件至邮箱，直接对[docs](https://github.com/AHUer-LeapLap/Impart-Inherit/tree/main/docs)路径下的对应文件夹Pull Request即可，可参考 [《如何使用GitHub进行经验分享》](如何使用GitHub进行经验分享.md)。内容经过我们Merge后便会上架。
 2. 如需更新内容，请及时邮件 ahuerleaplap@163.com 联系我们！
 
+### 友情链接
+
+安大飞跃手册交流群（QQ群）：1047350079
+
 ### 小尾巴
 
 * 致谢：安大飞跃手册的诞生离不开[南方科技大学飞跃手册](https://sustech-application.github.io/2020-Fall/)提供的灵感与动力！本README文档部分内容改编于此。
