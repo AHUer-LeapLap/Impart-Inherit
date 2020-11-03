@@ -49,7 +49,7 @@
 
 ### 小尾巴
 
-* 致谢：安大飞跃手册的诞生离不开[南方科技大学飞跃手册](https://sustech-application.github.io/2020-Fall/)提供的灵感与动力！本README文档部分内容改编于此。
+* 致谢：安大飞跃手册的诞生离不开[南方科技大学飞跃手册](https://sustech-application.github.io/2020-Fall/)提供的灵感与动力！本README文档部分内容改编于她。
 
 * 本作品采用[知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)进行许可。转载与共享请遵守[本协议](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)。
 
