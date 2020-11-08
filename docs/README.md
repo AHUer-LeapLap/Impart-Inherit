@@ -32,7 +32,7 @@
 
 ### 如何分享经验？
 
-> 我们关注到国内大学普遍存在批量生产毕业生而忽略对后50%的同学的关怀，本飞跃手册欢迎所有的毕业生分享你们的故事，不限出路、不限水平。你的分享一定会帮助到某些未来的小朋友们。([引用来源](https://survivesjtu.github.io/SJTU-Application/#/))
+> 我们关注到国内大学普遍存在批量生产毕业生而忽略对后50%的同学的关怀，本飞跃手册欢迎所有的毕业生分享你们的故事，不限出路、不限水平。你的分享一定会帮助到未来的某些小朋友们。([引用来源](https://survivesjtu.github.io/SJTU-Application/#/))
 
 分享经验非常简单，只需要三步：
 1. 请先查看[《经验分享准则&模版》](经验分享准则&模板.md)。
@@ -43,12 +43,16 @@
 1. 对于熟悉GitHub操作的同学：可以不需要发送文件至邮箱，直接对[docs](https://github.com/AHUer-LeapLap/Impart-Inherit/tree/main/docs)路径下的对应文件夹Pull Request即可，可参考 [《如何使用GitHub进行经验分享》](如何使用GitHub进行经验分享.md)。内容经过我们Merge后便会上架。
 2. 如需更新内容，请及时邮件 ahuerleaplap@163.com 联系我们！
 
+### 友情链接
+
+* 安大飞跃手册交流群（QQ群）：1047350079
+
 ### 小尾巴
 
-* 致谢：安大飞跃手册的诞生离不开[南方科技大学飞跃手册](https://sustech-application.github.io/2020-Fall/)提供的灵感与动力！本README文档部分内容改编于此。
+* 致谢：安大飞跃手册的诞生离不开[南方科技大学飞跃手册](https://sustech-application.github.io/2020-Fall/)提供的灵感与动力！本README文档的部分内容改编于她。
 
-* 本作品采用[知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)进行许可。转载与共享请遵守[本协议](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)。
+* 本飞跃手册采用[知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)进行许可。转载与共享请遵守[本协议](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)。
 
-* [<img src="_media/cc.png" alt="Fig.1" style="zoom:4.5%;" />](https://creativecommons.org)[<img src="_media/by-nc-nd.png" alt="Fig.1" style="zoom:25%;" />](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)
+* [<img src="_media/cc.png" alt="Fig.1" style="zoom:4.5%;" />](https://creativecommons.org)  [<img src="_media/by-nc-nd.png" alt="Fig.1" style="zoom:25%;" />](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)
 
   
