@@ -3,10 +3,10 @@
     <img alt="AHU_Logo" src="./docs/_media/ahu.jpg" height="150">
   </a>
 </p>
-
 <p align="center">
-  安徽大学飞跃手册
+  安大电院飞跃手册
 </p>
+
 
 <p align="center">
   AHUer LeapLap Wiki
