@@ -66,4 +66,4 @@
 
 * [<img src="_media/cc.png" alt="Fig.1" style="zoom:4.5%;" />](https://creativecommons.org)  [<img src="_media/by-nc-nd.png" alt="Fig.1" style="zoom:25%;" />](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)
 
-* 👈️手册主要内容请点击左下角目录按钮查看。
+* ↙️手册主要内容请点击左下角目录按钮查看。
