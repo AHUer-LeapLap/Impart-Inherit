@@ -39,7 +39,7 @@
 
 当然，每一种分享经验的方式都各有其优点。与学长学姐、同学老师的交流或许可以获得独家的非公开信息；参加讲座可以与发言人面对面交流答疑；而查看经验贴也是最简便快速了解信息的一个手段。这些都是需要辩证看待的地方。
 
-如果有其他学院的同学想为自己的学院创建这样一份飞跃手册，一定要先联系 ahuerleaplap@163.com ！我们会提供帮助。如果有其他院校的同学看到此手册并觉得不错，而本校并无类似电子书，欢迎参考《[基于Github Pages + docsify 搭建个人博客》](https://zhuanlan.zhihu.com/p/101126727)、[《GitHub Pages 搭建教程》](https://sspai.com/post/54608)、[《docsify 官网》](https://docsify.js.org/#/)进行本校飞跃手册的创建，共同为中国高等教育贡献绵薄之力！
+如果有其他学院的同学想为自己的学院创建这样一份飞跃手册，一定要先联系 ahuerleaplap@163.com ，我们会提供帮助！如果有其他院校的同学看到此手册并觉得不错，而本校并无类似电子书，欢迎参考《[基于Github Pages + docsify 搭建个人博客》](https://zhuanlan.zhihu.com/p/101126727)、[《GitHub Pages 搭建教程》](https://sspai.com/post/54608)、[《docsify 官网》](https://docsify.js.org/#/)进行本校飞跃手册的创建，共同为中国高等教育贡献绵薄之力！
 
 ### 如何分享经验？
 
@@ -66,4 +66,4 @@
 
 * [<img src="_media/cc.png" alt="Fig.1" style="zoom:4.5%;" />](https://creativecommons.org)  [<img src="_media/by-nc-nd.png" alt="Fig.1" style="zoom:25%;" />](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)
 
-* 👈️手册主要内容请点击左侧目录按钮查看。
+* 👈️手册主要内容请点击左下角目录按钮查看。
