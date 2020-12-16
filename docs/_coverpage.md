@@ -11,5 +11,5 @@
 
 - [GitHub](https://github.com/AHUer-LeapLap/Impart-Inherit)
 
-![封面图](_media/AHU八角楼.jpg)
+<!--![封面图](_media/八角楼之阶.jpg)-->
 
