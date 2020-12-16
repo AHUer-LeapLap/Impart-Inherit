@@ -11,7 +11,3 @@
 
 - [GitHub](https://github.com/AHUer-LeapLap/Impart-Inherit)
 
-![封面图](_media/笃北秋叶.jpg)
-
-![color](#fbb30b)
-
