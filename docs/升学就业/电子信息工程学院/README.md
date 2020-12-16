@@ -27,5 +27,4 @@ To be continued.
 ### 出国：
 
 [15-南方科技大学-钟文韶-PhD in Computer Science @ UIC](https://sustech-application.github.io/2020-Fall/#/grad-application/electronic-and-electrical-engineering/communication-engineering/[US]-15-zhongwenzhao)
-
-👆️此链接的目录开启新世界(开启另一个飞跃手册)。
+👆️点击此经验分享链接里的目录，开启一个新世界。
