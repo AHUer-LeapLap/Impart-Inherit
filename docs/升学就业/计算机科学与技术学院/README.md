@@ -4,7 +4,7 @@ To be continued.
 
 ### 保研：
 
-To be continued.
+[[非本校]-计算机相关专业《保研小白必看的往年经验贴大全 GitHub》](https://github.com/richardodliu/CS-BAOYAN)
 
 ### 就业：
 
