@@ -10,6 +10,8 @@
 
 ### 最近投稿
 
+[[保研]-[非本校]-计算机相关专业《保研小白必看的往年经验贴大全 GitHub》](https://github.com/richardodliu/CS-BAOYAN)[2020-12-17]
+
 [[保研]-[概述]-16-新能源-“比梦间”-华中科技大学《听说看完这篇，都能顺利上岸！！！》](https://mp.weixin.qq.com/s/9wnZbJ0GJfHSdcnCBfL4kw) [2020-12-16]
 
 [[保研]-[概述]-16-新能源-“比梦间”-华中科技大学《保研之“你问我答”》](https://mp.weixin.qq.com/s/aDhJGT2eh-nDZEbzpfmo_g) [2020-12-16]
@@ -85,8 +87,9 @@
 
 * 致谢：飞跃手册的诞生离不开[南方科技大学飞跃手册](https://sustech-application.github.io/2020-Fall/)提供的灵感与动力！本README文档的部分内容改编于她。
 
-* 本飞跃手册采用[知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)进行许可。转载与共享请遵守[本协议](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)。
+* 本飞跃手册采用[知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)进行许可。转载与共享本手册的非外置链接内容请遵守[本协议](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)。
 
 * [<img src="_media/cc.png" alt="Fig.1" style="zoom:4.5%;" />](https://creativecommons.org)  [<img src="_media/by-nc-nd.png" alt="Fig.1" style="zoom:25%;" />](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)
 
 * ↙️手册主要内容请点击左下角目录按钮查看。
+
