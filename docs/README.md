@@ -87,7 +87,7 @@
 
 * 致谢：飞跃手册的诞生离不开[南方科技大学飞跃手册](https://sustech-application.github.io/2020-Fall/)提供的灵感与动力！本README文档的部分内容改编于她。
 
-* 本飞跃手册采用[知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)进行许可。转载与共享本手册的非外置链接内容请遵守[本协议](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)。
+* 本飞跃手册采用[知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)进行许可。转载与共享本手册的非外链内容请遵守[本协议](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)。
 
 * [<img src="_media/cc.png" alt="Fig.1" style="zoom:4.5%;" />](https://creativecommons.org)  [<img src="_media/by-nc-nd.png" alt="Fig.1" style="zoom:25%;" />](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)
 
