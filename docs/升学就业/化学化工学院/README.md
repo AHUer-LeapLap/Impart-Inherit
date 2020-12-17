@@ -1,6 +1,6 @@
 ### 考研：
 
-[16-新能源-“比梦间”-华中科技大学《边缘人——保研考研如何安排？》](https://mp.weixin.qq.com/s/HlVGjKsaSD7nmsXg3MBY0Q) 
+[[概述]-16-新能源-“比梦间”-华中科技大学《边缘人——保研考研如何安排？》](https://mp.weixin.qq.com/s/HlVGjKsaSD7nmsXg3MBY0Q) 
 
 ### 保研：
 
