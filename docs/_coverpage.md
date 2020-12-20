@@ -1,6 +1,6 @@
-* 
-* 
-* 
+* ⠀
+* ⠀
+* ⠀
 
 <p align="center">
   <a href="https://github.com/AHUer-LeapLap/Impart-Inherit">
