@@ -4,7 +4,7 @@ To be continued.
 
 ### 保研：
 
-[电院保研政策](升学就业/电子信息工程学院/电院保研概述.md) [2020-11-01]
+[电院保研政策（外链）](升学就业/电子信息工程学院/电院保研概述.md)[2020-11-01]
 
 [17-电子-江浩林-东南大学](升学就业/电子信息工程学院/17-电子信息工程-江浩林.md) [2020-12-13]
 
@@ -26,4 +26,4 @@ To be continued.
 
 ### 出国：
 
-[15-南方科技大学-钟文韶-PhD in Computer Science @ UIC](https://sustech-application.github.io/2020-Fall/#/grad-application/electronic-and-electrical-engineering/communication-engineering/[US]-15-zhongwenzhao) [点击此经验分享链接里的目录，开启一个新世界]
+[15-南方科技大学-钟文韶-PhD in Computer Science @ UIC（外链）](https://sustech-application.github.io/2020-Fall/#/grad-application/electronic-and-electrical-engineering/communication-engineering/[US]-15-zhongwenzhao) [点击此经验分享链接里的目录，开启一个新世界]
