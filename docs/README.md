@@ -6,7 +6,7 @@
 
 * 欢迎所有的高年级同学以及毕业生在此分享你们的故事，不限出路、不限水平。你的分享一定会帮助到未来的某些小伙伴
 
-* 有意为自己所在学院飞跃手册内容征稿的同学欢迎联系 ahuerleaplap@163.com 
+* 有意为自己所在学院飞跃手册内容征稿的同学请联系 ahuerleaplap@163.com 
 
 ### 目录
 
@@ -150,5 +150,5 @@
 
 * [<img src="_media/cc.png" alt="Fig.1" style="zoom:4.5%;" />](https://creativecommons.org)  [<img src="_media/by-nc-nd.png" alt="Fig.1" style="zoom:25%;" />](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)
 
-* ↙️分类内容请点击左下角目录按钮查看。
+* ↙️分类内容请点击左下角目录按钮查看。如果觉得本手册还不错，欢迎收藏、分享本手册主页！
 
