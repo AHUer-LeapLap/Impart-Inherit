@@ -14,9 +14,10 @@
 
 <p align="center">
   <a href="https://github.com/AHUer-LeapLap/Impart-Inherit">
-    <img alt="AHU" src="_media/ahu.jpg" height="120">
+    <img alt="AHU" src="_media/AHU.png" height="120">
   </a>
 </p>
+
 <middle><font color="C8D9EE">安徽大学飞跃手册</font></middle>
 
 - <font color="C8D9EE">AHUer LeapLap Wiki</font>
