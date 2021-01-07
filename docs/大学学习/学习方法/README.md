@@ -2,5 +2,6 @@
 
 > 注：“[概述]”为对不同专业同学也有阅读价值的贴子
 
-[[概述]-吴瑞欣等人《安微大学信息安全专业入门指导》（外链 ](https://first-book-2.gitbook.io/-1/)http://wuruixin.cn/）[2021-01-07]
+[[概述]-吴瑞欣等人《安微大学信息安全专业入门指导》（外链） ](https://first-book-2.gitbook.io/-1/)[2021-01-07]
+http://wuruixin.cn/
 
