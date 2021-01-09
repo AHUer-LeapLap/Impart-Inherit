@@ -17,12 +17,11 @@
     <img alt="AHU" src="_media/AHU-logo-冬.png" height="120">
   </a>
 </p>
-
 <middle><font color="C8D9EE">安徽大学飞跃手册</font></middle>
 
 - <font color="C8D9EE">AHUer LeapLap Wiki</font>
 
-- [<font color="C8D9EE">版权: CC BY-NC-ND 4.0</font>](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)
+- <font color="C8D9EE">All Rights Reserved.</font>
 
 - [<font color="C8D9EE">GitHub 主页</font>](https://github.com/AHUer-LeapLap/Impart-Inherit)
 
