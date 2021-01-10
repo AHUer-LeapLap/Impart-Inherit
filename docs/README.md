@@ -136,8 +136,7 @@ http://wuruixin.cn/
 
 最后，谢谢每一位给予我们鼓励的安大学子，你们的点赞是我们前进的最大动力。
 
-<br><font color="#C8C8C8"><span id="busuanzi_container_site_pv" style='display:none'>飞跃手册总浏览量: <span id="busuanzi_value_site_pv"></span> 次
+<br><span id="busuanzi_container_site_pv" style='display:none'>👁️<span id="busuanzi_value_site_pv"></span> 
 </span>
-<span id="busuanzi_container_site_uv" style='display:none'> | 总访客数: <span id="busuanzi_value_site_uv"></span> 人
-</font></span>
+<span id="busuanzi_container_site_uv" style='display:none'> | 👤️<span id="busuanzi_value_site_uv"></span> </span>
 <br>
