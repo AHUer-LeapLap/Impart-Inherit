@@ -36,6 +36,18 @@
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
+<!-- alert 样式 -->
+<link rel="stylesheet" href="https://cdn.bootcss.com/sweetalert/1.1.3/sweetalert.min.css" type='text/css' media='all' />
+
+<!-- 复制提醒 -->
+<script src="https://cdn.bootcss.com/sweetalert/1.1.3/sweetalert.min.js"></script>
+<script>
+  document.body.oncopy = function () {
+    swal("复制成功 🎉",
+            "版权声明：本手册投稿者原创（非外链）的作品，本手册及投稿者共同享有版权。未经飞跃手册编者授权，任何组织、机构和个人不得以任何方式转载、发布、编辑后发布手册投稿者原创（非外链）的任何内容。",
+            "success"); };
+</script>
+
 </body>
     
 </html>
