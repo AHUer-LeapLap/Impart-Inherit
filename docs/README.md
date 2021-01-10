@@ -135,3 +135,12 @@ http://wuruixin.cn/
 同时也感谢各位投稿同学的支持，没有你们的帮助，飞跃手册只是一个空的壳子。
 
 最后，谢谢每一位给予我们鼓励的安大学子，你们的点赞是我们前进的最大动力。
+
+<br>
+
+<span id="busuanzi_container_site_pv" style='display:none'>总访问量：<span id="busuanzi_value_site_pv"></span> 次
+</span>
+<span id="busuanzi_container_site_uv" style='display:none'> | 总访客数：<span id="busuanzi_value_site_uv"></span> 人
+</span>
+
+<br>
