@@ -122,7 +122,7 @@ http://wuruixin.cn/
 
 ### 版权声明
 
-本手册投稿者原创（非外链）的作品，本手册及投稿者共同享有版权。未经飞跃手册编者授权，任何组织、机构和个人不得以任何方式转载、发行、复制和编辑修改手册投稿者原创（非外链）的任何内容。
+本手册投稿者原创（非外链）的作品，本手册及投稿者共同享有版权。未经飞跃手册编者授权，任何组织、机构和个人不得以任何方式转载、发布、编辑后发布手册投稿者原创（非外链）的任何内容。
 
 ### 联系方式
 
@@ -135,6 +135,7 @@ http://wuruixin.cn/
 同时也感谢各位投稿同学的支持，没有你们的帮助，飞跃手册只是一个空的壳子。
 
 最后，谢谢每一位给予我们鼓励的安大学子，你们的点赞是我们前进的最大动力。
+
 <br><font color="#C8C8C8"><span id="busuanzi_container_site_pv" style='display:none'>飞跃手册总浏览量:<span id="busuanzi_value_site_pv"></span> 次
 </span>
 <span id="busuanzi_container_site_uv" style='display:none'> | 总访客数:<span id="busuanzi_value_site_uv"></span> 人
