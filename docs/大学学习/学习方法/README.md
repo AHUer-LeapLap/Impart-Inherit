@@ -6,6 +6,6 @@
 
 [[概述]-17-新传-新闻-张景《大学学习生活干货分享》](https://ahuer-leaplap.github.io/Impart-Inherit/大学学习/学习方法/17-新闻-张景.pdf) [2021-01-09]
 
-[[概述]-吴瑞欣等人《安微大学信息安全专业入门指导》（外链） ](https://first-book-2.gitbook.io/-1/)[2021-01-07]
+[[概述]-计科-吴瑞欣等人《安微大学信息安全专业入门指导》（外链） ](https://first-book-2.gitbook.io/-1/)[2021-01-07]
 http://wuruixin.cn/
 
