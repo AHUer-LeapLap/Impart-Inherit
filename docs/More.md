@@ -12,9 +12,9 @@
 
 [[学习方法]-[概述]-18-电院-电子-顾成超《我眼中的大学》](大学学习/学习方法/18-电子-顾成超.md) [2021-01-09]
 
-[[课程学习]-[概述]-“安徽大学商学院学生会”《期末复习指南（一）》（外链）](https://mp.weixin.qq.com/s/T81utAhvU5jRyDl1xCN89A)[2021-01-09]
+[[课程学习]-[概述]-“安徽大学商学院学生会”《期末复习指南（高数、大英等课程）》（外链）](https://mp.weixin.qq.com/s/T81utAhvU5jRyDl1xCN89A)[2021-01-09]
 
-[[课程学习]-[概述]-“安徽大学商学院学生会”《期末复习指南（二）》（外链）](https://mp.weixin.qq.com/s/dhYViW68GjtlSf8FpdpdwQ)[2021-01-09]
+[[课程学习]-[概述]-“安徽大学商学院学生会”《期末复习指南（大语）》（外链）](https://mp.weixin.qq.com/s/dhYViW68GjtlSf8FpdpdwQ)[2021-01-09]
 
 [[保研]-17-会计-赵颖-中国科学技术大学-“安徽大学商学院学生会”《保研问答》（外链）](https://mp.weixin.qq.com/s/ipUgd89ZJerken41h7GXhQ)[2021-01-09]
 
@@ -40,7 +40,7 @@
 
 [[出国]-[就业]-“安徽大学商学院学生会”《学术经验交流会干货回顾-出国&就业》（外链）](https://mp.weixin.qq.com/s/VqtAdFMI6w6ySOudI5cBMg)[2021-01-09]
 
-[[学习方法]-[概述]-17-新传-新闻-张景《大学学习生活干货分享》](https://ahuer-leaplap.github.io/Impart-Inherit/大学学习/学习方法/17-新闻-张景.pdf) [2021-01-09]
+[[学习方法]-[概述]-17-新传-新闻-张景《大学学习生活干货分享（针对大一）》](https://ahuer-leaplap.github.io/Impart-Inherit/大学学习/学习方法/17-新闻-张景.pdf) [2021-01-09]
 
 [[课程学习]-18-新传-新闻-涂馨雨《新传期末复习经验》](https://ahuer-leaplap.github.io/Impart-Inherit/大学学习/课程学习/18-新闻-涂馨雨.pdf) [2021-01-09]
 
