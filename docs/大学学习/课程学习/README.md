@@ -2,9 +2,9 @@
 
 > 注：“[概述]”为对不同专业同学也有阅读价值的贴子
 
-[[概述]-“安徽大学商学院学生会”《期末复习指南（一）》（外链）](https://mp.weixin.qq.com/s/T81utAhvU5jRyDl1xCN89A)[2021-01-09]
+[[概述]-“安徽大学商学院学生会”《期末复习指南（高数、大英等课程）》（外链）](https://mp.weixin.qq.com/s/T81utAhvU5jRyDl1xCN89A)[2021-01-09]
 
-[[概述]-“安徽大学商学院学生会”《期末复习指南（二）》（外链）](https://mp.weixin.qq.com/s/dhYViW68GjtlSf8FpdpdwQ)[2021-01-09]
+[[概述]-“安徽大学商学院学生会”《期末复习指南（大语）》（外链）](https://mp.weixin.qq.com/s/dhYViW68GjtlSf8FpdpdwQ)[2021-01-09]
 
 [18-新传-新闻-涂馨雨《新传期末复习经验》](https://ahuer-leaplap.github.io/Impart-Inherit/大学学习/课程学习/18-新闻-涂馨雨.pdf) [2021-01-09]
 
