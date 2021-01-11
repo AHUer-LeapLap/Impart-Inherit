@@ -18,6 +18,8 @@
 
 [[置顶]-[概述]《南方科技大学飞跃手册》（外链）](https://sustech-application.github.io/2020-Fall/#/)
 
+[[保研]-17-英语-方圆-厦门大学](升学就业/外语学院/17-英语-方圆.md) [2021-01-11]
+
 [[比赛]-18-新传-广告-吴亚颖-全国大学生英语竞赛《快看，你们要的大英赛特等奖经验贴来了！》](大学学习/比赛/18-广告-吴亚颖.md) [2021-01-09]
 
 [[保研]-[概述]-17-历史-J同学-南京大学](升学就业/历史系/17-历史-J同学.md) [2021-01-09]
@@ -27,49 +29,6 @@
 [[课程学习]-[概述]-“安徽大学商学院学生会”《期末复习指南（一）》（外链）](https://mp.weixin.qq.com/s/T81utAhvU5jRyDl1xCN89A)[2021-01-09]
 
 [[课程学习]-[概述]-“安徽大学商学院学生会”《期末复习指南（二）》（外链）](https://mp.weixin.qq.com/s/dhYViW68GjtlSf8FpdpdwQ)[2021-01-09]
-
-[[保研]-17-会计-赵颖-中国科学技术大学-“安徽大学商学院学生会”《保研问答》（外链）](https://mp.weixin.qq.com/s/ipUgd89ZJerken41h7GXhQ)[2021-01-09]
-
-[[保研]-17-会计-夏宇星-厦门大学-“安徽大学商学院学生会”《保研问答》（外链）](https://mp.weixin.qq.com/s/LrgIDSexBIc3YMfXpJEb8Q)[2021-01-09]
-
-[[保研]-17-物流-詹建军-国防科技大学-“安徽大学商学院学生会”《保研问答》（外链）](https://mp.weixin.qq.com/s/wIo64dJn4VdzI3AV6sch9Q)[2021-01-09]
-
-[[保研]-17-工管-张了丹-浙江大学-“安徽大学商学院学生会”《保研问答》（外链）](https://mp.weixin.qq.com/s/OtDQLuyJ0TEQdQXbF9typg)[2021-01-09]
-
-[[保研]-17-财管-宋英康-中央财经大学-“安徽大学商学院学生会”《保研问答》（外链）](https://mp.weixin.qq.com/s/QlDEhuxhpniNAxjFrpukIw)[2021-01-09]
-
-[[保研]-16-物流-陈伟-南京大学-“安徽大学商学院学生会”《保研经验&问答》（外链）](https://mp.weixin.qq.com/s/52jGsC3iwrWE-tpZr7VLrA)[2021-01-09]
-
-[[保研]-16-财管-周晓萱（以及蔡钰璟）-华南理工大学-“安徽大学商学院学生会”《保研问答》（外链）](https://mp.weixin.qq.com/s/4OZWitLbKR9tAG-1JXPRiQ)[2021-01-09]
-
-[[保研]-16-会计-吴梦阳-上海财经大学-“安徽大学商学院学生会”《保研问答》（外链）](https://mp.weixin.qq.com/s/qt4eCGDnhjJT8KO5a6HrYw)[2021-01-09]
-
-[[保研]-16-会计-徐怡然-浙江大学-“安徽大学商学院学生会”《保研问答》（外链）](https://mp.weixin.qq.com/s/KoA9GsGmAboW8mgduVyEYg)[2021-01-09]
-
-[[保研]-16-工管-孙静虹-厦门大学-“安徽大学商学院学生会”《保研问答&学习方法》（外链）](https://mp.weixin.qq.com/s/qeRspv7s1lTTMDEDXkp00g)[2021-01-09]
-
-[[保研]-[考研]-[跨考]-“安徽大学商学院学生会”《学术经验交流会干货回顾-保研&考研&跨考》（外链）](https://mp.weixin.qq.com/s/EdNIKXCINdvFyK3JPyVTqg)[2021-01-09]
-
-[[出国]-[就业]-“安徽大学商学院学生会”《学术经验交流会干货回顾-出国&就业》（外链）](https://mp.weixin.qq.com/s/VqtAdFMI6w6ySOudI5cBMg)[2021-01-09]
-
-[[学习方法]-[概述]-17-新传-新闻-张景《大学学习生活干货分享》](https://ahuer-leaplap.github.io/Impart-Inherit/大学学习/学习方法/17-新闻-张景.pdf) [2021-01-09]
-
-[[课程学习]-18-新传-新闻-涂馨雨《新传期末复习经验》](https://ahuer-leaplap.github.io/Impart-Inherit/大学学习/课程学习/18-新闻-涂馨雨.pdf) [2021-01-09]
-
-[[课程学习]-18-新传-网媒-疏童《期末复习碎碎念》](https://ahuer-leaplap.github.io/Impart-Inherit/大学学习/课程学习/18-网媒-疏童.pdf) [2021-01-09]
-
-[[课程学习]-18-新传-新闻-谢婉琳《期末复习经验之谈》](https://ahuer-leaplap.github.io/Impart-Inherit/大学学习/课程学习/18-新闻-谢婉琳.pdf) [2021-01-09]
-
-[[课程学习]-19-新传-新闻-王学勤《期末经验分享交流》](https://ahuer-leaplap.github.io/Impart-Inherit/大学学习/课程学习/19-新闻-王学勤.pdf) [2021-01-09]
-
-[[课程学习]-19-新传-网媒-尹升志《期末复习个人分享》](https://ahuer-leaplap.github.io/Impart-Inherit/大学学习/课程学习/19-网媒-尹升志.pdf) [2021-01-09]
-
-[[课程学习]-19-新传-网媒-祝旭冉《学习经验分享》](https://ahuer-leaplap.github.io/Impart-Inherit/大学学习/课程学习/19-网媒-祝旭冉.pdf) [2021-01-09]
-
-[[考研]-[保研]-17-电子-“X同学”《电院读研情况、考研调剂、保研政策集合贴（不完全）》](升学就业/电子信息工程学院/17-电子信息工程-莫笑海-电院保研.md)[2021-01-08]
-
-[[学习方法]-[概述]-吴瑞欣等人《安微大学信息安全专业入门指导》（外链） ](https://first-book-2.gitbook.io/-1/)[2021-01-07]
-http://wuruixin.cn/
 
 [更多. . . ](More.md)
 
