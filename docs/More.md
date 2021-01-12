@@ -2,7 +2,7 @@
 
 > 分类内容请点击屏幕↙左下角↙目录按钮浏览，“[概述]”为对其他专业同学也有阅读价值的贴子
 
-[[置顶]-[概述]《上海交通大学生存手册》（外链）](https://survivesjtu.gitbook.io/survivesjtumanual/)
+[[置顶]-[概述]《上海交通大学生存手册》（外链）](https://survivesjtu.gitbook.io/survivesjtumanual/xu/sheng-ming)
 
 [[置顶]-[概述]《南方科技大学飞跃手册》（外链）](https://sustech-application.github.io/2020-Fall/#/)
 
