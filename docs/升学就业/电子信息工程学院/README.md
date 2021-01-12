@@ -28,4 +28,4 @@
 
 ### 出国：
 
-[15-南方科技大学-钟文韶-PhD in Computer Science @ UIC（外链）](https://sustech-application.github.io/2020-Fall/#/grad-application/electronic-and-electrical-engineering/communication-engineering/[US]-15-zhongwenzhao) [点击此经验分享链接里的目录，开启一个新世界]
+等待投稿～
