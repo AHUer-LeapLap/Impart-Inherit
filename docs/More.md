@@ -24,7 +24,7 @@
 
 [[课程学习]-“安徽大学商学院学生会”《期末复习指南（高数、大英等课程）》（外链）](https://mp.weixin.qq.com/s/T81utAhvU5jRyDl1xCN89A)[2021-01-09]
 
-[[课程学习]-[概述]-“安徽大学商学院学生会”《期末复习指南（大语）》（外链）](https://mp.weixin.qq.com/s/dhYViW68GjtlSf8FpdpdwQ)[2021-01-09]
+[[课程学习]-“安徽大学商学院学生会”《期末复习指南（大语）》（外链）](https://mp.weixin.qq.com/s/dhYViW68GjtlSf8FpdpdwQ)[2021-01-09]
 
 [[保研]-17-会计-赵颖-中国科学技术大学-“安徽大学商学院学生会”《保研问答》（外链）](https://mp.weixin.qq.com/s/ipUgd89ZJerken41h7GXhQ)[2021-01-09]
 
