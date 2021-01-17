@@ -4,7 +4,7 @@
 
 ### 目录
 
-* [手册序言](contents.md)
+* [手册序言](Preface/README.md)
 
 * [初入安大篇](contents.md)
 
