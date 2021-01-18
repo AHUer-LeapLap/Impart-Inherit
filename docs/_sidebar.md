@@ -1,7 +1,8 @@
-- **手册序言：**
-- [序(0)](Preface/README.md)
+- **写在前面：**
+- [飞跃手册序(1)](Preface/xu.md)
+- [致谢(1)](Preface/zhixie.md)
 - **初入安大篇：**
-- [大学如何度过(3)](Golden-years/README.md)
+- [大学如何度过(4)](Golden-years/README.md)
 - **大学学习篇：**
 - [学习方法(1)](大学学习/学习方法/README.md)
 - [课程学习(10)](大学学习/课程学习/README.md)
@@ -32,4 +33,3 @@
 - [国际商学院(0)](升学就业/国际商学院/README.md)
 - [国际教育学院(0)](升学就业/国际教育学院/README.md)
 - [互联网学院(0)](升学就业/互联网学院/README.md)
-
