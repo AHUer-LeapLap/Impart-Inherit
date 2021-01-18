@@ -4,7 +4,7 @@
 
 [[置顶]-[概述]《上海交通大学生存手册》（外链）](https://survivesjtu.gitbook.io/survivesjtumanual/xu/xu)
 
-[[置顶]-[概述]《SEU生存指南》（外链）](https://www.yuque.com/wangzonghui-jujm4/telvdb)
+[[置顶]-[概述]《SEU 生存指南》（外链）](https://www.yuque.com/wangzonghui-jujm4/telvdb)
 
 [[置顶]-[概述]《南方科技大学飞跃手册》（外链）](https://sustech-application.github.io/2020-Fall/#/)
 
