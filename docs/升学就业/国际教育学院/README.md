@@ -10,7 +10,7 @@ To be continued.
 
 To be continued.
 
-### 出国&出境：
+### 留学：
 
 To be continued.
 
