@@ -2,9 +2,8 @@
 - [序言(1)](Preface/xu.md)
 - [致谢(1)](Preface/zhixie.md)
 - **初入安大篇：**
-- [大学如何度过(4)](Golden-years/README.md)
+- [大学如何度过(5)](Golden-years/README.md)
 - **大学学习篇：**
-- [学习方法(1)](大学学习/学习方法/README.md)
 - [课程学习(10)](大学学习/课程学习/README.md)
 - [比赛(1)](大学学习/比赛/README.md)
 - [科研(0)](大学学习/科研/README.md)
