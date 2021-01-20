@@ -2,7 +2,7 @@
 
 [《上海交通大学生存手册》（外链）](https://survivesjtu.gitbook.io/survivesjtumanual/xu/xu)
 
-[《SEU生存指南》（外链）](https://www.yuque.com/wangzonghui-jujm4/telvdb)
+[《东南大学生存指南》（外链）](https://www.yuque.com/wangzonghui-jujm4/telvdb)
 
 [《安微大学信息安全专业入门指导》（外链）](https://first-book-2.gitbook.io/-1/) http://wuruixin.cn/
 
