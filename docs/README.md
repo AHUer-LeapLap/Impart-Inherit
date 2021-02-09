@@ -60,7 +60,7 @@
 
 ### 版权声明
 
-欢迎大家将本网站主页链接 https://ahuer-leaplap.github.io/Impart-Inherit 分享至QQ空间、朋友圈、微博、个人主页等处。
+欢迎大家将本网站**主页**链接: https://ahuer-leaplap.github.io/Impart-Inherit 分享至QQ空间、朋友圈、微博、个人主页等处。
 
 本手册未经允许不得用于任何商业目的、不得制作任何派生作品、不得以任何形式（包括但不仅限于文字、图片）转载至组织或团体的QQ空间、微信平台、微博等网络媒体平台。
 
