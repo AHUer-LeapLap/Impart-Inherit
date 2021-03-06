@@ -25,5 +25,7 @@
 
 - [<font color="C8D9EE">GitHub 主页</font>](https://github.com/AHUer-LeapLap/Impart-Inherit)
 
-![封面图](_media/八角楼之阶-冬.jpg)
+![八角楼之阶-冬.jpg](https://i.loli.net/2021/03/06/hED1IZqe6cGwyC9.jpg)
+
+
 
