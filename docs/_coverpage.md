@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/AHUer-LeapLap/Impart-Inherit">
-    <img alt="AHU" src="https://sm.ms/image/n6V24yMcTAYqSiN" height="120">
+    <img alt="AHU" src="https://i.loli.net/2021/03/08/n6V24yMcTAYqSiN.png" height="120">
   </a>
 </p>
 
