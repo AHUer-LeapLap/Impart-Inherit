@@ -3,8 +3,18 @@
     <img alt="AHU" src="_media/AHU-logo-夏.jpg" height="120">
   </a>
 </p>
-
-<middle><font color="D2E8F4">安徽大学飞跃手册</font></middle>
+* ⠀
+* ⠀
+* ⠀⠀
+* ⠀
+* ⠀
+* ⠀
+* ⠀
+* ⠀
+* ⠀⠀
+* ⠀
+* ⠀
+* <middle><font color="D2E8F4">安徽大学飞跃手册</font></middle>
 
 - <font color="D2E8F4">AHUer LeapLap Wiki</font>
 
