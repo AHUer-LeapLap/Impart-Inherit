@@ -1,5 +1,7 @@
 ### 考研：
 
+[[跨考]-17-网媒-于高-中国传媒大学《初试专业第一 | 中传艺术研究院三跨上岸经验分享》](https://mp.weixin.qq.com/s?srcid=0502VLZYDt5Tp7cFMmLSxxT9&scene=23&sharer_sharetime=1619921631840&mid=2247484072&sharer_shareid=992e0feacff1b9181a3de93d2f0636bd&sn=45360240a669fdf3374e2e8fa147a990&idx=1&__biz=MzU2MjQxNTgzOQ%3D%3D&chksm=fc689318cb1f1a0eb353bee9023155eeca1b3725cad61581487b8b034698b089794dbe58f702&mpshare=1#rd)[2021-05-02]
+
 [[概述]-16-新闻-野马学姐-北京体育大学《新传调剂经验分享》](升学就业/新闻传播学院/16-新闻-野马学姐.md)[2021-02-27]
 
 ### 保研：
