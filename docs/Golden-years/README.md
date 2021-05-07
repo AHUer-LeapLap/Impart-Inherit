@@ -8,5 +8,5 @@
 
 [18-电院-电子-顾成超《我眼中的大学》](Golden-years/18-电子-顾成超.md) [2021-01-09]
 
-[17-新传-新闻-张景《大学学习生活干货分享》](https://ahuer-leaplap.github.io/Impart-Inherit/Golden-years/17-新闻-张景.pdf) [2021-01-09]
+17-新传-新闻-张景《大学学习生活干货分享》[[图片版本]](Golden-years/17-新闻-张景.md) [[PDF版本]](https://ahuer-leaplap.github.io/Impart-Inherit/Golden-years/17-新闻-张景.pdf) [2021-01-09]
 
