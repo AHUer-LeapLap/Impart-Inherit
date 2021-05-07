@@ -102,7 +102,7 @@
 
 [[留学]-[就业]-“安徽大学商学院学生会”《学术经验交流会干货回顾-留学&就业》（外链）](https://mp.weixin.qq.com/s/VqtAdFMI6w6ySOudI5cBMg)[2021-01-09]
 
-[[大学如何度过]-[概述]-17-新传-新闻-张景《大学学习生活干货分享（针对大一）》](https://ahuer-leaplap.github.io/Impart-Inherit/Golden-years/17-新闻-张景.pdf) [2021-01-09]
+[大学如何度过]-[概述]-17-新传-新闻-张景《大学学习生活干货分享（针对大一）》[[图片版本]](Golden-years/17-新闻-张景.md) [[PDF版本]](https://ahuer-leaplap.github.io/Impart-Inherit/Golden-years/17-新闻-张景.pdf) [2021-01-09]
 
 [[日常学习]-18-新传-新闻-涂馨雨《学习经验分享（新闻史、媒介素养、建议等）》](https://ahuer-leaplap.github.io/Impart-Inherit/大学学习/日常学习/18-新闻-涂馨雨.pdf) [2021-01-09]
 
