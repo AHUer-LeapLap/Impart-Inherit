@@ -10,7 +10,7 @@
 
 [[置顶]-[概述]《安微大学信息安全专业入门指导》（外链）](https://first-book-2.gitbook.io/-1/) http://wuruixin.cn/
 
-[[保研]-17-金数-余志强-中国科学技术大学](https://ahuer-leaplap.github.io/Impart-Inherit/docs/升学就业/数学科学学院/17-金数-余志强.pdf) [2021-05-10]
+[[保研]-17-金数-余志强-中国科学技术大学](https://ahuer-leaplap.github.io/Impart-Inherit/升学就业/数学科学学院/17-金数-余志强.pdf) [2021-05-10]
 
 [[考研]-17-应统-李灿-中南财经政法大学](升学就业/数学科学学院/17-应统-李灿.md) [2021-05-10]
 
