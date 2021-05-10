@@ -8,7 +8,7 @@
 
 ### 保研：
 
-[17-金数-余志强-中国科学技术大学](https://ahuer-leaplap.github.io/Impart-Inherit/docs/升学就业/数学科学学院/17-金数-余志强.pdf) [2021-05-10]
+[17-金数-余志强-中国科学技术大学](https://ahuer-leaplap.github.io/Impart-Inherit/升学就业/数学科学学院/17-金数-余志强.pdf) [2021-05-10]
 
 ### 就业&实习：
 
