@@ -1,3 +1,5 @@
+[如何分享经验？](Preface/fenxiang.md)
+
 ### 考研：
 
 等待投稿～
