@@ -1,6 +1,7 @@
 - **写在前面：**
 - [首页(1)](https://ahuer-leaplap.github.io/Impart-Inherit/)
 - [序言(1)](Preface/xu.md)
+- [如何分享经验(1)](Preface/fenxiang.md)
 - [致谢(1)](Preface/zhixie.md)
 - **初入安大篇：**
 - [大学如何度过(5)](Golden-years/README.md)
