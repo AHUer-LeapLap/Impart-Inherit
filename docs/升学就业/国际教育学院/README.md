@@ -1,3 +1,5 @@
+[How to share experience?](Preface/fenxiang.md)
+
 ### 考研：
 
 To be continued.
