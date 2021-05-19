@@ -1,3 +1,5 @@
+[如何分享经验？](Preface/fenxiang.md)
+
 ### 大学如何度过：
 
 [《上海交通大学生存手册》（外链）](https://survivesjtu.gitbook.io/survivesjtumanual/xu/xu)
