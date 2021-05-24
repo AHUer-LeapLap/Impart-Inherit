@@ -3,6 +3,7 @@
 - [致谢(1)](Preface/zhixie.md)
 - [序言(1)](Preface/xu.md)
 - [如何分享经验(1)](Preface/fenxiang.md)
+- [手册未来规划(1)](Preface/future.md)
 - **初入安大篇：**
 - [大学如何度过(5)](Golden-years/README.md)
 - **大学学习篇：**
