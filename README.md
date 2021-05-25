@@ -12,4 +12,6 @@
 <p align="center">
   AHUer LeapLap Wiki
 </p>
-![手册二维码](docs/_media/手册二维码.PNG)
+<p align="center">
+    <img alt="手册二维码" src="docs/_media/手册二维码.PNG">
+</p>
