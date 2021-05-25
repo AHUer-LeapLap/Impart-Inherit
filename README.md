@@ -15,5 +15,5 @@
 
 
 <p align="center">
-    <img alt="手册二维码" src="docs/_media/手册二维码.PNG" height="550">
+    <img alt="手册二维码" src="docs/_media/手册二维码.PNG" height="400">
 </p>
