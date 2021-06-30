@@ -6,15 +6,7 @@
 
 ### 目录
 
-* [写在前面](contents.md)
-
-* [初入安大篇](contents.md)
-
-* [大学学习篇](contents.md)
-
-* [升学就业篇](contents.md)
-
-* [毕业校友篇](contents.md)
+!> 请点击`左下角按钮`展开目录，祝阅读愉快！
 
 ### 最近上架
 
