@@ -14,11 +14,10 @@
 * ⠀
 * ⠀
 * ⠀
-* ⠀
 
 <p align="center">
   <a href="https://github.com/AHUer-LeapLap/Impart-Inherit">
-    <img alt="AHU" src="_media/AHU-logo-冬.png" height="120">
+    <img alt="AHU" src="_media/AHU-logo-冬.png" height="110">
   </a>
 </p>
 
