@@ -60,6 +60,8 @@
 
 QQ群：1047350079
 
+[GitHub 主页](https://github.com/AHUer-LeapLap/Impart-Inherit)
+
 <br><font color="#C8C8C8"><span id="busuanzi_container_site_pv" style='display:none'>飞跃手册总浏览量: 7770+<span id="busuanzi_value_site_pv"></span> 次
 </span>
 <span id="busuanzi_container_site_uv" style='display:none'> | 总访客数: 3611+<span id="busuanzi_value_site_uv"></span> 人 | 
