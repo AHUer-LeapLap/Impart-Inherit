@@ -1,4 +1,4 @@
-[如何分享经验？](Preface/fenxiang.md)
+[一起来将手册建设地更好！](Preface/fenxiang.md)
 
 > 以下商学院学生会出品的内容十分优质，推荐非商院的同学也进行阅读
 
