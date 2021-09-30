@@ -4,7 +4,7 @@
 
 [[置顶]-[概述]《东南大学生存指南-方向篇》（外链）](https://www.yuque.com/wangzonghui-jujm4/telvdb/hmzug7)
 
-[[置顶]-[概述]《南方科技大学飞跃手册》（外链）](https://sustech-application.github.io/2020-Fall/#/)
+[[置顶]-[概述]《南方科技大学飞跃手册》（外链）](https://sustech-application.com/#/)
 
 [[考研]-[概述]-[非本校]-思考问题的熊《靠谱学长说：聊聊考研复习这件事儿》第四版（外链）](https://book.kaopubear.top/) [2021-09-18]
 
