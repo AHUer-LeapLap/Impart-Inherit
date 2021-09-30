@@ -20,7 +20,7 @@
 
 [《东南大学生存指南》（外链）](https://www.yuque.com/wangzonghui-jujm4/telvdb)
 
-[《南方科技大学飞跃手册》（外链）](https://sustech-application.github.io/2020-Fall/#/)
+[《南方科技大学飞跃手册》（外链）](https://sustech-application.com/#/)
 
 ### 飞跃手册是什么
 
