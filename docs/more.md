@@ -8,6 +8,8 @@
 
 [[置顶]-[概述]《南方科技大学飞跃手册》（外链）](https://sustech-application.com/#/)
 
+[[置顶]-[概述]《飞跃手册(第二版)--北大未名飞跃重洋版》](https://ahuer-leaplap.github.io/Impart-Inherit/升学就业/升学就业概述/飞跃手册(第二版)--北大未名飞跃重洋版.pdf)
+
 [[置顶]-[概述]《安微大学信息安全专业入门指导》（外链）](https://first-book-2.gitbook.io/-1/) http://wuruixin.cn/
 
 [[日常学习]-中科大-章俊彦-数学学习资料等（外链）](http://home.ustc.edu.cn/~yx3x/USTCdata.html)[2021-10-14]
