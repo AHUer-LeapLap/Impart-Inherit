@@ -6,7 +6,7 @@
 
 [[置顶]-[概述]《南方科技大学飞跃手册》（外链）](https://sustech-application.com/#/)
 
-[[置顶]-[概述]《飞跃手册(第二版)--北大未名飞跃重洋版》](https://ahuer-leaplap.github.io/Impart-Inherit/升学就业/升学就业概述/飞跃手册(第二版)--北大未名飞跃重洋版.pdf)
+[[置顶]-[留学]-[概述]《飞跃手册(第二版)--北大未名飞跃重洋版》](https://ahuer-leaplap.github.io/Impart-Inherit/升学就业/升学就业概述/飞跃手册(第二版)--北大未名飞跃重洋版.pdf)
 
 [[考研]-[概述]-[非本校]-思考问题的熊《靠谱学长说：聊聊考研复习这件事儿》第四版（外链）](https://book.kaopubear.top/) [2021-09-18]
 
