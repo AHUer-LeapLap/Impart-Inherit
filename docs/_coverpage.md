@@ -26,7 +26,7 @@
 - <font color="F5E0CE">AHUer LeapLap Wiki</font>
 
 
-![八角楼之阶-秋.jpg](https://i.loli.net/2021/08/06/DUZpGtaqM9wXYBx.jpg)
+![八角楼之阶-秋.jpg](https://onezhai-1253282588.cos.ap-shanghai.myqcloud.com/DUZpGtaqM9wXYBx.webp)
 
 
 
