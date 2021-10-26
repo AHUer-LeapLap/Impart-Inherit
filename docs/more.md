@@ -6,6 +6,8 @@
 
 [[置顶]-[概述]《东南大学生存指南》（外链）](https://www.yuque.com/wangzonghui-jujm4/telvdb)
 
+[[置顶]-[概述]《东南大学生存指南2.0》（外链）](https://www.yuque.com/books/share/7b35bef7-f726-40da-9dd0-9e9eecce0ed9)
+
 [[置顶]-[概述]《南方科技大学飞跃手册》（外链）](https://sustech-application.com/#/)
 
 [[置顶]-[留学]-[概述]《飞跃手册(第二版)--北大未名飞跃重洋版》](https://onezhai-1253282588.cos.ap-shanghai.myqcloud.com/ahubook/%E9%A3%9E%E8%B7%83%E6%89%8B%E5%86%8C(%E7%AC%AC%E4%BA%8C%E7%89%88)--%E5%8C%97%E5%A4%A7%E6%9C%AA%E5%90%8D%E9%A3%9E%E8%B7%83%E9%87%8D%E6%B4%8B%E7%89%88.pdf)
