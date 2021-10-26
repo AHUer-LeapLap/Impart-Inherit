@@ -6,6 +6,8 @@
 
 [《东南大学生存指南》（外链）](https://www.yuque.com/wangzonghui-jujm4/telvdb)
 
+[《东南大学生存指南2.0》（外链）](https://www.yuque.com/books/share/7b35bef7-f726-40da-9dd0-9e9eecce0ed9)
+
 [《安微大学信息安全专业入门指导》（外链）](https://first-book-2.gitbook.io/-1/) http://wuruixin.cn/
 
 [18-电院-电子-顾成超《我眼中的大学》](Golden-years/18-电子-顾成超.md) [2021-01-09]
