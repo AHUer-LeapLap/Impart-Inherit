@@ -5,7 +5,7 @@
 - [如何分享经验(1)](Preface/fenxiang.md)
 - [手册未来规划(1)](Preface/future.md)
 - **初入安大篇：**
-- [大学如何度过(5)](Golden-years/README.md)
+- [大学如何度过(6)](Golden-years/README.md)
 - **大学学习篇：**
 - [日常学习(12)](大学学习/日常学习/README.md)
 - [比赛竞赛(2)](大学学习/比赛/README.md)
