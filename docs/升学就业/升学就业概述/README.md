@@ -2,7 +2,7 @@
 
 > 本界面是对升学就业模块所有概述内容的合集，“[概述]”为对不同专业同学也有阅读价值的贴子
 
-[[置顶]-[概述]《东南大学生存指南-方向篇》（外链）](https://www.yuque.com/wangzonghui-jujm4/telvdb/hmzug7)
+[[置顶]-[概述]《东南大学生存指南2.0-方向篇》（外链）](https://www.yuque.com/books/share/7b35bef7-f726-40da-9dd0-9e9eecce0ed9/gqnp48)
 
 [[置顶]-[概述]《南方科技大学飞跃手册》（外链）](https://sustech-application.com/#/)
 
