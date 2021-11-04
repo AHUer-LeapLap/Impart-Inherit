@@ -60,8 +60,6 @@
 
 本手册内容目前只在本网站发布。未经允许，本手册不得用于任何商业目的、不得制作任何派生作品、不得以任何形式（包括但不限于文字、图片）**转载**至个人、组织或团体的QQ空间、微信平台、微博等网络媒体平台。
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://ahuwiki.gitee.io/impart-inherit/docs/-media/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
-
 ### 联系方式（交流/投稿/意见/建议）
 
 邮箱：ahuerleaplap@163.com（尽管发邮件！我们回复很快的！）
