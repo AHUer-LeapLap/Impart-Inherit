@@ -1,16 +1,13 @@
 * ⠀
 * ⠀
 * ⠀
+* ⠀⠀
 * ⠀
 * ⠀
 * ⠀
 * ⠀
 * ⠀
-* ⠀
-* ⠀
-* ⠀
-* ⠀
-* ⠀
+* ⠀⠀
 * ⠀
 * ⠀
 * ⠀
@@ -20,13 +17,12 @@
     <img alt="AHU" src="_media/AHU-logo-冬.png" height="120">
   </a>
 </p>
+<middle><font color="C8D9EE">安徽大学飞跃手册</font></middle>
 
-<middle><font color="F5E0CE">安徽大学飞跃手册</font></middle>
-
-- <font color="F5E0CE">AHUer LeapLap Wiki</font>
+- <font color="C8D9EE">AHUer LeapLap Wiki</font>
 
 
-![八角楼之阶-秋.jpg](https://onezhai-1253282588.cos.ap-shanghai.myqcloud.com/DUZpGtaqM9wXYBx.webp)
+![八角楼之阶-冬.jpg](https://i.loli.net/2021/03/06/hED1IZqe6cGwyC9.jpg)
 
 
 
