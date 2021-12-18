@@ -17,9 +17,9 @@
 <p align="center">
     <img alt="手册二维码链接" src="docs/_media/手册二维码链接.PNG" height="300">
 </p>
-手册未来规划
 
-技术方面：
+
+手册未来规划（技术方面）：
 
 - [x] 将网站的域名注册为 www.ahu.wiki 。 需要一位IT大佬来协助实现（已实现，感谢XHDL）。
 
@@ -27,7 +27,7 @@
 
 - [ ] 更优的网站交互界面。**需要一位充满想象力、艺术的同学以及一位IT技术大佬来协助实现（欢迎大家提意见！）**。
 
-内容方面：
+手册未来规划（内容方面）：
 
 - [ ] 为飞跃手册添加新生攻略模块，新生指南的网站内容框架可参考[浙大求是潮-新生手册2020](https://newbie2020.zjuqsc.com/)、[浙大求是潮-新生手册2015](http://www.qsc.zju.edu.cn/freshman/)、[南科手册](https://sustech.online/)、安大生存手册构想-新生攻略[[框架1]](https://ahuer-leaplap.github.io/Impart-Inherit/Preface/_media/1.png)[[框架2]](https://ahuer-leaplap.github.io/Impart-Inherit/Preface/_media/2.png)。**需要一些热心同学来一起撰写**。
 
