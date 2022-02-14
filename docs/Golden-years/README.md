@@ -10,6 +10,8 @@
 
 [《安微大学信息安全专业入门指导》（外链）](https://first-book-2.gitbook.io/-1/) http://wuruixin.cn/
 
+[06-中国科学技术大学-杨思奇《新生入学指导（偏物理类）》](Golden-years/新生入学指导-偏物理类-杨思奇-USTC.pdf) [2022-02-14]
+
 [18-电院-电子-顾成超《我眼中的大学》](Golden-years/18-电子-顾成超.md) [2021-01-09]
 
 17-新传-新闻-张景《大学学习生活干货分享》[[图片版本]](Golden-years/17-新闻-张景.md) [[PDF版本]](https://ahuer-leaplap.github.io/Impart-Inherit/Golden-years/17-新闻-张景.pdf) [2021-01-09]
