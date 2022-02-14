@@ -11,7 +11,7 @@
   - [手册未来规划(1)](Preface/future.md)
 - **初入安大篇：**
 
-  - [大学如何度过(6)](Golden-years/README.md)
+  - [大学如何度过(7)](Golden-years/README.md)
 - **大学学习篇：**
 
   - [日常学习(12)](大学学习/日常学习/README.md)
