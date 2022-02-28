@@ -6,8 +6,6 @@
 
 [[新上架]-[保研]-18-文典理科试验班-钱志鹏《兜兜转转跨保路》](升学就业/文典学院/18-文典理科试验班-钱志鹏.md) [2022-02-21]
 
-[[新上架]-[大学如何度过]-[概述]-06-中国科学技术大学-杨思奇《新生入学指导（偏物理类）》](https://www.ahu.wiki//Golden-years/新生入学指导-偏物理类-杨思奇-USTC.pdf) [2022-02-14]
-
 [[友链]-《上海交通大学生存手册》（外链）](https://survivesjtu.gitbook.io/survivesjtumanual/xu/xu)
 
 [[友链]-《东南大学生存指南2.0》（外链）](https://www.yuque.com/books/share/7b35bef7-f726-40da-9dd0-9e9eecce0ed9)
