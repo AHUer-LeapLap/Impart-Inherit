@@ -26,7 +26,7 @@
 
 - <font color="E4CFB4">AHUer LeapLap Wiki</font>
 
-![八角楼之阶-春.jpg](https://i.loli.net/2021/03/30/ceNwDjFxJ4tagHl.jpg)
+![八角楼之阶-春.jpg](https://cos.zzy2001.com/ahubook/hero.jpg)
 
 
 
