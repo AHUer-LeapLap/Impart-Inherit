@@ -12,6 +12,8 @@
 
 [[友链]-《南方科技大学飞跃手册》（外链）](https://sustech-application.com/#/)
 
+[[友链]-《海南大学飞跃手册》（外链）](https://hainanu-application.github.io/)
+
 [[友链]-《北大未名BBS飞跃重洋版〈飞跃手册〉》（外链）](https://cos.zzy2001.com/ahubook/%E9%A3%9E%E8%B7%83%E6%89%8B%E5%86%8C(%E7%AC%AC%E4%BA%8C%E7%89%88)--%E5%8C%97%E5%A4%A7%E6%9C%AA%E5%90%8D%E9%A3%9E%E8%B7%83%E9%87%8D%E6%B4%8B%E7%89%88.pdf)
 
 [点我查看手册全部内容. . . ](more.md)
