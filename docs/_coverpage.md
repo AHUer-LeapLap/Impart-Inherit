@@ -26,7 +26,7 @@
 - <font color="F5E0CE">AHUer LeapLap Wiki</font>
 
 
-![八角楼之阶-秋.jpg](https://onezhai-1253282588.cos.ap-shanghai.myqcloud.com/DUZpGtaqM9wXYBx.webp)
+![八角楼之阶-秋.jpg](https://cos.zzy2001.com/ahubook/八角楼之阶-秋.jpg)
 
 
 
