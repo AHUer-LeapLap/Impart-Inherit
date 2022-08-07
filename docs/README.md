@@ -22,7 +22,7 @@
 
 ## 手册使用说明书
 
-<font color="FF4500">新年好，春天好～如果你想查看按院系/模块划分的内容，请点击左下角</font><font color="228B22">绿色的</font><font color="FF4500">目录按钮</font>，希望你能发现～
+<font color="FF4500">秋天好，望朋友们满载而归～查看按院系/模块划分的内容，请点击左下角</font><font color="228B22">绿色</font><font color="FF4500">目录按钮～</font>
 
 如果你想在手册的所有文章中快速检索想要内容，[可先点我](more.md)，再使用 Ctrl + F 检索～
 
