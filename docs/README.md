@@ -24,7 +24,7 @@
 
 ## 手册使用说明书
 
-<font color="FF4500">秋天好，望朋友们满载而归～查看按院系/模块划分的内容，请点击左下角</font><font color="228B22">绿色</font><font color="FF4500">目录按钮～</font>
+<font color="FF4500">冬天好，这是一个丰收的季节，望朋友们满载而归～查看按院系/模块划分的内容，请点击左下角</font><font color="228B22">绿色</font><font color="FF4500">目录按钮～</font>
 
 如果你想在手册的所有文章中快速检索想要内容，[可先点我](more.md)，再使用 Ctrl + F 检索～
 
