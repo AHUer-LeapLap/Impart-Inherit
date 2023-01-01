@@ -12,7 +12,7 @@
 
 [[置顶]-[留学]-[概述]《北大未名BBS飞跃重洋版〈飞跃手册〉》（外链）](https://onezhai-1253282588.cos.ap-shanghai.myqcloud.com/ahubook/%E9%A3%9E%E8%B7%83%E6%89%8B%E5%86%8C(%E7%AC%AC%E4%BA%8C%E7%89%88)--%E5%8C%97%E5%A4%A7%E6%9C%AA%E5%90%8D%E9%A3%9E%E8%B7%83%E9%87%8D%E6%B4%8B%E7%89%88.pdf)
 
-[[置顶]-[概述]《安微大学信息安全专业入门指导》（外链）](https://first-book-2.gitbook.io/-1/) http://wuruixin.cn/
+[[置顶]-[概述]《安微大学信息安全专业入门指导》（外链）](https://first-book-2.gitbook.io/the-guide-of-information-security-in-anhui-univers/) http://wuruixin.cn/
 
 [[保研]-19-通信-吕聚良-东南大学《庸人短见》](升学就业/电子信息工程学院/19-通信-吕聚良.md) [2022-12-17]
 

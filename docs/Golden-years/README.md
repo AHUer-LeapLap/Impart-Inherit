@@ -8,7 +8,7 @@
 
 [《东南大学生存指南2.0》（外链）](https://www.yuque.com/books/share/7b35bef7-f726-40da-9dd0-9e9eecce0ed9)
 
-[《安微大学信息安全专业入门指导》（外链）](https://first-book-2.gitbook.io/-1/) http://wuruixin.cn/
+[《安微大学信息安全专业入门指导》（外链）](https://first-book-2.gitbook.io/the-guide-of-information-security-in-anhui-univers/) http://wuruixin.cn/
 
 [《南京工业大学飞跃手册》& 汇总近年国内高校飞跃手册（外链）](https://github.com/yaoshun123/FLY_NJTech)
 
