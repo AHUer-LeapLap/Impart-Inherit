@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://ahuer-leaplap.github.io/Impart-Inherit/#/">
-    <img alt="AHU_Logo" src="./docs/_media/AHU-logo-夏.jpg" height="150">
+    <img alt="AHU_Logo" src="https://cos.zzy2001.com/ahubook/AHU-logo-%E5%A4%8F.webp" height="150">
   </a>
 </p>
 <p align="center">
