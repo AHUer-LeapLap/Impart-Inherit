@@ -28,7 +28,7 @@
 
 手册文字过多，为避免看不下去，也为了提高阅读效率，推荐电脑端查看～
 
-如果发现手册加载缓慢，[请点我](https://ahuwiki.gitee.io/impart-inherit/#/)，这是国内的服务器，会快一点～
+如果发现手册加载缓慢，[请点我](https://ahuwiki.gitee.io/impart-inherit/#/)，这是国内的服务器，会快一点（最近内容同步出了点问题）～
 
 如果你觉得手册不错，可看看[手册未来规划](Preface/future.md)和[如何分享经验](Preface/fenxiang.md)～
 
