@@ -2,6 +2,8 @@
 
 !> 手机端分类查看内容请点击左下角按钮！电脑端可按 Ctrl + F 进行检索！
 
+[[置顶]-[概述]-国内高校飞跃手册汇总贴 &《南京工业大学飞跃手册》（外链）](https://github.com/yaoshun123/FLY_NJTech)
+
 [[置顶]-[概述]《上海交通大学生存手册》（外链）](https://survivesjtu.gitbook.io/survivesjtumanual/xu/xu)
 
 [[置顶]-[概述]《东南大学生存指南》（外链）](https://www.yuque.com/wangzonghui-jujm4/telvdb)

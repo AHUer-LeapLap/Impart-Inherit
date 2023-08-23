@@ -8,6 +8,8 @@
 
 [[新上架]-[保研]-19-电子-朱高翔-华东师范大学](升学就业/电子信息工程学院/19-电子-朱高翔.md) [2023-03-01]
 
+[[友链]-国内高校飞跃手册汇总贴 &《南京工业大学飞跃手册》（外链）](https://github.com/yaoshun123/FLY_NJTech)
+
 [[友链]-《上海交通大学生存手册》（外链）](https://survivesjtu.gitbook.io/survivesjtumanual/xu/xu)
 
 [[友链]-《东南大学生存指南2.0》（外链）](https://www.yuque.com/books/share/7b35bef7-f726-40da-9dd0-9e9eecce0ed9)
@@ -15,8 +17,6 @@
 [[友链]-《南方科技大学飞跃手册》（外链）](https://sustech-application.com/#/)
 
 [[友链]-《海南大学飞跃手册》（外链）](https://hainanu-application.github.io/)
-
-[[友链]-《南京工业大学飞跃手册》& 汇总近年国内高校飞跃手册（外链）](https://github.com/yaoshun123/FLY_NJTech)
 
 [[友链]-《北大未名BBS飞跃重洋版〈飞跃手册〉》（外链）](https://cos.zzy2001.com/ahubook/%E9%A3%9E%E8%B7%83%E6%89%8B%E5%86%8C(%E7%AC%AC%E4%BA%8C%E7%89%88)--%E5%8C%97%E5%A4%A7%E6%9C%AA%E5%90%8D%E9%A3%9E%E8%B7%83%E9%87%8D%E6%B4%8B%E7%89%88.pdf)
 
