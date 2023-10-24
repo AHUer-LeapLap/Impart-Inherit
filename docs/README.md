@@ -30,8 +30,6 @@
 
 手册文字过多，为避免看不下去，也为了提高阅读效率，推荐电脑端查看～
 
-如果发现手册加载缓慢，[请点我](https://ahuwiki.gitee.io/impart-inherit/#/)，这是国内的服务器，会快一点（最近内容同步出了点问题）～
-
 如果你觉得手册不错，可看看[手册未来规划](Preface/future.md)和[如何分享经验](Preface/fenxiang.md)～
 
 如果你有任何好的点子与想法，欢迎加入我们！邮箱 ahuerleaplap@163.com ！
@@ -76,7 +74,7 @@ QQ群：1047350079
 
 [GitHub 主页](https://github.com/AHUer-LeapLap/Impart-Inherit)
 
-[Gitee 主页](https://gitee.com/ahuwiki/Impart-Inherit)
+[Gitee 主页（暂停维护）](https://gitee.com/ahuwiki/Impart-Inherit)
 
 <br><font color="#C8C8C8"><span id="busuanzi_container_site_pv" style='display:none'>飞跃手册总浏览量: 7770+<span id="busuanzi_value_site_pv"></span> 次
 </span>
