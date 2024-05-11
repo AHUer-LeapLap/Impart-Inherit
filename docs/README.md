@@ -22,13 +22,13 @@
 
 [[友链]-《北大未名BBS飞跃重洋版〈飞跃手册〉》（外链）](https://cos.zzy2001.com/ahubook/%E9%A3%9E%E8%B7%83%E6%89%8B%E5%86%8C(%E7%AC%AC%E4%BA%8C%E7%89%88)--%E5%8C%97%E5%A4%A7%E6%9C%AA%E5%90%8D%E9%A3%9E%E8%B7%83%E9%87%8D%E6%B4%8B%E7%89%88.pdf)
 
+[[友链]-欢迎在此腾讯文档写下鼓励或者建议，哪怕几个字，这对我们很有帮助！](https://docs.qq.com/sheet/DYnFRUUFJUWtBbFZm?tab=BB08J2)
+
 ## 手册使用说明书
 
-<font color="FF4500">立春了，祝大家新年快乐！查看按院系/模块划分的内容，请点击左下角</font><font color="228B22">绿色</font><font color="FF4500">目录按钮～</font>
+<font color="FF4500">夏日快乐！查看按院系/模块划分的内容，请点击左下角</font><font color="228B22">绿色</font><font color="FF4500">目录按钮～</font>
 
 如果你想在手册的所有文章中快速检索想要内容，[可先点我](more.md)，再使用 Ctrl + F 检索～
-
-手册文字过多，为避免看不下去，也为了提高阅读效率，推荐电脑端查看～
 
 如果你觉得手册不错，可看看[手册未来规划](Preface/future.md)和[如何分享经验](Preface/fenxiang.md)～
 
