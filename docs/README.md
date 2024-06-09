@@ -1,6 +1,6 @@
 ## 快速指引
 
-[点我查看手册全部内容. . . ](more.md)
+[👉点我查看手册全部内容. . . ](more.md)
 
 [[新上架]-[概述]-电院-中国科学技术大学信息科学技术学院实验室介绍和招生要求](https://www.ahu.wiki/%E5%8D%87%E5%AD%A6%E5%B0%B1%E4%B8%9A/%E7%94%B5%E5%AD%90%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6%E4%BF%A1%E6%81%AF%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2%E5%AE%9E%E9%AA%8C%E5%AE%A4%E4%BB%8B%E7%BB%8D%E5%92%8C%E6%8B%9B%E7%94%9F%E8%A6%81%E6%B1%82.pdf) [2024-01-02]
 
@@ -76,8 +76,8 @@ QQ群：1047350079
 
 [Gitee 主页（暂停维护）](https://gitee.com/ahuwiki/Impart-Inherit)
 
-<br><font color="#C8C8C8"><span id="busuanzi_container_site_pv" style='display:none'>飞跃手册总浏览量: 7770+<span id="busuanzi_value_site_pv"></span> 次
+<br><font color="#C8C8C8"><span id="busuanzi_container_site_pv" style='display:none'>飞跃手册总浏览量: <span id="busuanzi_value_site_pv"></span> 次
 </span>
-<span id="busuanzi_container_site_uv" style='display:none'> | 本手册已经帮助了: 3611+<span id="busuanzi_value_site_uv"></span> 人 | 
+<span id="busuanzi_container_site_uv" style='display:none'> | 本手册已经帮助了: <span id="busuanzi_value_site_uv"></span> 人 | 
 All Rights Reserved.</font></span>
 <br>
