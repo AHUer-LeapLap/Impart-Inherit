@@ -26,7 +26,7 @@
 
 ## 手册使用说明书
 
-<font color="FF4500">夏日快乐！查看按院系/模块划分的内容，请点击左下角</font><font color="228B22">绿色</font><font color="FF4500">目录按钮～</font>
+<font color="FF4500">欢迎你在秋天来到本手册！这是个收获的季节！查看按院系/模块划分的内容，请点击左下角</font><font color="228B22">绿色</font><font color="FF4500">目录按钮～</font>
 
 如果你想在手册的所有文章中快速检索想要内容，[可先点我](more.md)，再使用 Ctrl + F 检索～
 
