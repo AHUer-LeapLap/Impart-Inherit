@@ -20,13 +20,11 @@
     <img alt="AHU" src="_media/AHU-logo-冬.png" height="120">
   </a>
 </p>
+<middle><font color="#DCBBF9">安徽大学飞跃手册</font></middle>
 
-<middle><font color="F5E0CE">安徽大学飞跃手册</font></middle>
+- <font color="#DCBBF9">AHUer LeapLap Wiki</font>
 
-- <font color="F5E0CE">AHUer LeapLap Wiki</font>
-
-
-![八角楼之阶-秋.jpg](https://cos.zzy2001.com/ahubook/八角楼之阶-秋.jpg)
+![八角楼之阶-夜.jpg](https://i.loli.net/2021/06/28/4JgnqDOwkIuzmeA.jpg)
 
 
 
