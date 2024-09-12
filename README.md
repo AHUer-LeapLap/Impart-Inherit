@@ -5,9 +5,11 @@
 </p>
 <p align="center">
   安徽大学飞跃手册
-  www.ahu.wiki
 </p>
 
+<p align="center">
+    www.ahu.wiki
+</p>
 
 
 <p align="center">
