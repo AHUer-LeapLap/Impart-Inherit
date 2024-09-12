@@ -13,11 +13,6 @@
 
 
 <p align="center">
-  AHUer LeapLap Wiki
-</p>
-
-
-<p align="center">
     <img alt="手册二维码链接" src="docs/_media/手册二维码链接.PNG" height="300">
 </p>
 
