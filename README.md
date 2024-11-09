@@ -7,10 +7,8 @@
   安徽大学飞跃手册
 </p>
 
-
-
 <p align="center">
-  AHUer LeapLap Wiki
+    www.ahu.wiki
 </p>
 
 
