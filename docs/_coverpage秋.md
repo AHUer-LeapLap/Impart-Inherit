@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/AHUer-LeapLap/Impart-Inherit">
-    <img alt="AHU" src="_media/AHU-logo-冬.png" height="120">
+    <img alt="AHU" src="https://cos.zzy2001.com/ahubook/icon_ahu.ico" height="120">
   </a>
 </p>
 
