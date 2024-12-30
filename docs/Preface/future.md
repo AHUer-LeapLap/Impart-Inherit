@@ -26,7 +26,7 @@
 
 反思：
 
-- [ ] 目前的内容（主要是保研内容）多偏向于方法与套路，有功利、促进内卷之嫌疑。不过换一个角度来说，把“按方法与套路”做事省下来的时间拿去[做更有意义的事](https://survivesjtu.gitbook.io/survivesjtumanual/sheng-cun-ji-qiao/tu-ji-bei-kao)，也并不是一件坏事。总之，希望手册慢慢全面发展起来！
+- [ ] 目前的内容（主要是保研内容）多偏向于方法与套路，有功利、促进内卷之嫌疑。不过换一个角度来说，把“按方法与套路”做事[省下来的时间](https://survivesjtu.gitbook.io/survivesjtumanual/li-zhi-pian/zheng-que-di-lang-fei-sheng-xia-de-shi-jian)拿去[做更有意义的事](https://survivesjtu.gitbook.io/survivesjtumanual/li-zhi-pian/zong-you-geng-zhi-de-zuo-de-shi-qing)，也并不是一件坏事。总之，希望手册慢慢全面发展起来！
 
 如果你觉得你可以通过自己的力量帮助以上的某一条规划落地，让安大变得更好，欢迎联系邮箱：ahuerleaplap@163.com（尽管发邮件！我们回复很快的！)，也可以加入QQ群：1047350079。
 
