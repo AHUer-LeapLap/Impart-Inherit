@@ -2,13 +2,11 @@
 
 [👉点我查看手册全部内容. . . ](more.md)
 
+[[新上架]-[保研]-21-电子-苏国泰-北京邮电大学](升学就业/电子信息工程学院/21-电子-苏国泰.md) [2025-04-22]
+
 [[新上架]-[就业]-19-文典理科试验班-祝至永《零基础校招转行硬件工程师指南》](升学就业/文典学院/19-文典理科试验班-祝至永.md) [2025-03-16]
 
 [[新上架]-[保研]-21-电子-孙庭伟-武汉大学《保研经历之"均值回归"》](升学就业/电子信息工程学院/21-电子-孙庭伟.md) [2025-03-09]
-
-[[新上架]-[留学]-20-应物-胡未名-亥姆霍兹研究所](升学就业/物理与光电工程学院/20-应物-胡未名.md) [2024-12-28]
-
-[[新上架]-[概述]-电院-中国科学技术大学信息科学技术学院实验室介绍和招生要求](https://www.ahu.wiki/%E5%8D%87%E5%AD%A6%E5%B0%B1%E4%B8%9A/%E7%94%B5%E5%AD%90%E4%BF%A1%E6%81%AF%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6%E4%BF%A1%E6%81%AF%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2%E5%AE%9E%E9%AA%8C%E5%AE%A4%E4%BB%8B%E7%BB%8D%E5%92%8C%E6%8B%9B%E7%94%9F%E8%A6%81%E6%B1%82.pdf) [2024-01-02]
 
 [[友链]-国内高校飞跃手册汇总贴 &《南京工业大学飞跃手册》（外链）](https://github.com/yaoshun123/FLY_NJTech)
 
@@ -28,11 +26,11 @@
 
 <font color="FF4500">欢迎你在春天来到本手册！这是万物生长的季节～查看按院系/模块划分的内容，请点击左下角</font><font color="228B22">绿色</font><font color="FF4500">目录按钮～</font>
 
-如果你想在手册的所有文章中快速检索想要内容，[可先点我](more.md)，再使用 Ctrl + F 检索～
+如果你想在手册的所有文章中快速检索内容，[可先点我](more.md)，再使用 Ctrl + F 检索～
 
 如果你觉得手册不错，可看看[手册未来规划](Preface/future.md)和[如何分享经验](Preface/fenxiang.md)～
 
-如果你有任何好的点子与想法，欢迎加入我们！邮箱 ahuerleaplap@163.com ！
+如果你有任何好的点子与想法，欢迎加入我们！联系邮箱 ahuerleaplap@163.com ！
 
 #### 飞跃手册是什么
 
@@ -74,7 +72,7 @@ QQ群：1047350079
 
 [GitHub 主页](https://github.com/AHUer-LeapLap/Impart-Inherit)
 
-[Gitee 主页（暂停维护）](https://gitee.com/ahuwiki/Impart-Inherit)
+[Gitee 主页（停止维护）](https://gitee.com/ahuwiki/Impart-Inherit)
 
 <br><font color="#C8C8C8"><span id="busuanzi_container_site_pv" style='display:none'>飞跃手册总浏览量: <span id="busuanzi_value_site_pv"></span> 次
 </span>
