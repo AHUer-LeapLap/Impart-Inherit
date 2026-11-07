@@ -11,9 +11,6 @@
 * ⠀
 * ⠀
 * ⠀
-* ⠀
-* ⠀
-* ⠀
 
 <p align="center">
   <a href="https://github.com/AHUer-LeapLap/Impart-Inherit">
@@ -21,11 +18,12 @@
   </a>
 </p>
 
-<middle><font color="#DCBBF9">安徽大学飞跃手册</font></middle>
+<middle><font color="C8D9EE">安徽大学飞跃手册</font></middle>
 
-- <font color="#DCBBF9">AHUer LeapLap Wiki</font>
+- <font color="C8D9EE">AHUer LeapLap Wiki</font>
 
-![八角楼之阶-夜.jpg](https://i.loli.net/2021/06/28/4JgnqDOwkIuzmeA.jpg)
+
+![八角楼之阶-冬.jpg](https://cos.zzy2001.com/ahubook/%E5%85%AB%E8%A7%92%E6%A5%BC%E4%B9%8B%E9%98%B6-%E5%86%AC.webp)
 
 
 
